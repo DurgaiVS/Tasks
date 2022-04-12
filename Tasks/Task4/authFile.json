@@ -1,0 +1,17 @@
+{
+  "student1" : {
+        "name": "Prema",
+        "phn" : "9360434308",
+        "email": "durgaivel0309@gmail.com",
+        "year": "2019",
+        "dept": "MECH" 
+    }
+    , 
+    "student2" : {
+        "name": "Narayanan",
+        "phn" : "9360434300988",
+        "email": "davidnaren0309@gmail.com",
+        "year": "2019",
+        "dept": "BIO"
+    }
+}
